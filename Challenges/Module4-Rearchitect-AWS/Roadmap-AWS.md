@@ -68,7 +68,7 @@ Here is an overview of the design requirements for this build
 
 
 ## Rules and References
-  * Sample code should be used where applicable to demonstrate a givne service is configured properly
+  * Sample code should be used where applicable to demonstrate a given service is configured properly
   * In each module, you may list out questions you have and schedule technical stakeholder meetings
 
 
