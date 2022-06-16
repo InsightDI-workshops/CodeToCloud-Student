@@ -1,4 +1,4 @@
-# Module 0 - Introduction
+# Introduction
 
 Fabrikam Medical Conferences provides conference web site services tailored to the medical community. They started out 10 years ago building a few conference sites for a small conference organizer. Since then, word of mouth has spread, and Fabrikam Medical Conferences is now a well-known industry brand. They currently handle over 100 conferences per year and growing.
 
@@ -63,8 +63,3 @@ To address the issues and progress towards the goals, Susan asks a high-end cons
 * Solution that does not incur a direct vendor-lock in
 * As much re-use of existing code base
 * Complete an implementation of the proposed solution for a single tenant to train the team and perfect the process.
-
-## Tasks
-
-* [Design Cloud Architecture and DevOps Roadmap for Fabrikam Medical Conferences](Tasks/INTRO-T001.md)
-* [Present the solution to the Fabrikam Medical Conferences Board](Tasks/INTRO-T002.md)

@@ -1,6 +1,6 @@
-# Prerequisites for the Code To Cloud Workshop
+# Prerequisites for the Code To Cloud Capstone
 
-This workshop is targeted for students in a instructor-led training. To make it challenging for the students, the workshop contains challenges that can also be done individually. To make sure students do not get stuck, there are scripts available with instructions to "automatically" fix a challenge, so students can continue. The workshop also contains extensive Step-By-Step videos and written instructions. There are also videos that explain the concepts that are used in the exercises.
+This workshop is desinged to allow students to gain hands on experience working within the Cloud/DevOps field.  To make sure students do not get stuck, there are scripts available with instructions to "automatically" fix a challenge, so students can continue. The workshop also contains extensive Step-By-Step videos and written instructions. There are also videos that explain the concepts that are used in the exercises.
 
 # Video
 If you rather watch a video with step by step instructions, you can do that here
@@ -10,14 +10,14 @@ If you rather watch a video with step by step instructions, you can do that here
 
 The workshop builds upon an existing code base. Before you start the workshop, this code base needs to be forked or cloned. 
 
-1. Fork the [CodeToCloud-Source](https://github.com/xpiritbv/CodeToCloud-Source) Repo into a public repo on your own account.
+1. Fork the [CodeToCloud-Source](https://github.com/InsightDI-workshops/CodeToCloud-Source) Repo into a public repo on your own account.
 
 ## GitHub Codespace
 
 The workshop is built with and targeted at development with GitHub Codespace. A full featured IDE in the cloud. In order to start working you need to create a Codespace.
 
 1. Navigate to your forked repository on GitHub
-2. Create a *Codespace* in your forked repo. This is done by pressing Code and going to the Codespaces tab.
+2. Create a *Codespace* in your forked repo. This is done by pressing Code and going to the Codespaces tab.  Be sure to select 2 core when prompted.
 ![](/Assets/CodeSpace.png)
 
 3. Your GitHub Codespace will be created
