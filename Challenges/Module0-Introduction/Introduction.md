@@ -63,3 +63,5 @@ To address the issues and progress towards the goals, Susan asks a high-end cons
 * Solution that does not incur a direct vendor-lock in
 * As much re-use of existing code base
 * Complete an implementation of the proposed solution for a single tenant to train the team and perfect the process.
+
+Now return to the [Home Page](/README.md) to get started.
