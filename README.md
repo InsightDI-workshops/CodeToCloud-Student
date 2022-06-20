@@ -24,15 +24,10 @@ This repository contains the student materials for the Code To Cloud Capstone Pr
      - Complete Challenge Activities
      - Presentation & Discussion
 
- - [Module 4a: Rearchitecting in application in AWS](/Challenges/Module4-Rearchitect-AWS/Roadmap-AWS.md)
+ - [Module 4: Developing Infrastructure as Code to Deploy Environments](/Challenges/Module4-Rearchitect-AWS/Roadmap-AWS.md)
      - Planning Session with Project Stakeholders
-    - Design Cloud Architecture and DevOps Roadmap for Fabrikam
+     - Design Cloud Architecture and IaC implementation
      - Presentation & Discussion
-
- - [Module 4b: Rearchitecting in application in Azure](/Challenges/Module4-Rearchitect-Azure/Roadmap-Azure.md)
-   - Planning Session with Project Stakeholders
-   - Design Cloud Architecture and DevOps Roadmap for Fabrikam
-   - Presentation & Discussion
 
 ## Challenges & Sources
 All challenges can be found in the [Challenges](/Challenges/README.md) folder. This repository is supported by a Git Repository that contains all sources. This can be found [here](https://github.com/InsightDI-workshops/CodeToCloud-Source).
