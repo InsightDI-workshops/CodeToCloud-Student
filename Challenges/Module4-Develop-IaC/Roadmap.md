@@ -11,7 +11,7 @@ Here is an overview of the design requirements for this build:
   * Virtual Network
   * Storage Account
   * Tagging Standards on Azure Resources: ex. Cost Center, Environment, DeploymentType, Application Name
-  * Deploy servics with a Service Principal
+  * Deploy services with a Service Principal
   * Resource Group Organization Strategy
   * Use Terraform to build your landing zones - use modules as described in the Cloud Adoption Framework
   * Store Terraform State in Azure Storage
