@@ -24,7 +24,7 @@ This repository contains the student materials for the Code To Cloud Capstone Pr
      - Complete Challenge Activities
      - Presentation & Discussion
 
- - [Module 4: Developing Infrastructure as Code to Deploy Environments](/Challenges/Module4-Rearchitect-AWS/Roadmap-AWS.md)
+ - [Module 4: Developing Infrastructure as Code to Deploy Environments](/Challenges/Module4-Develop-IaC/Roadmap.md)
      - Planning Session with Project Stakeholders
      - Design Cloud Architecture and IaC implementation
      - Presentation & Discussion
