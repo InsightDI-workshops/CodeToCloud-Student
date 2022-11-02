@@ -6,4 +6,4 @@ Fabrikam has decided to move forward with widescale deployment of their new clou
    
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-!(https://github.com/InsightDI-workshops/CodeToCloud-Student/blob/main/Challenges/Module4-Develop-IaC/LENS-Overview.png)
+![LENS-Overview](https://github.com/InsightDI-workshops/CodeToCloud-Student/blob/main/Challenges/Module4-Develop-IaC/LENS-Overview.png)
