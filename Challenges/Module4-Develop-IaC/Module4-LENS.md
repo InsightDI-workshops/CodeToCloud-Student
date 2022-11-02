@@ -9,6 +9,6 @@ Fabrikam has decided to move forward with widescale deployment of their new clou
 
 ![Platform Overview](https://github.com/InsightDI-workshops/CodeToCloud-Student/blob/main/Challenges/Module4-Develop-IaC/Platform%20Overview.png)
 
-
+![TF Structure](https://github.com/InsightDI-workshops/CodeToCloud-Student/blob/main/Challenges/Module4-Develop-IaC/TF-Azure.png)
 
 
