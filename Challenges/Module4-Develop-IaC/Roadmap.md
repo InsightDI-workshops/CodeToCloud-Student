@@ -61,8 +61,3 @@ Here is an overview of the design requirements for this build:
   * In each module, you may list out questions you have and schedule technical stakeholder meetings
 
 
-# Option 2 - Data Analytics Landing Zone
-
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
-
