@@ -1,5 +1,6 @@
-# Module 4 - Developing Infrastructure as Code for Deploying Environments
+# Module 4
 
+# Option 1 - Developing Infrastructure as Code for Deploying Environments
 ## Background
 Fabrikam has decided to move forward with widescale deployment of their new cloud environment, but wants an easier way to manage and control deployments using infrastructure as code. While there has been progress completed in modernizing the components and improving the overall developer worklow, there are benefits of going to the cloud that will never be realized in its current state. The client has worked with Insight and trusts you as a developer to find the right way to implement this new requirement. The following is the outline of what Fabrikam wants in order to facilitate their IaC requirements..
    
@@ -45,8 +46,6 @@ Here is an overview of the design requirements for this build:
     * Create a flowchart depicting the infrastructure as code deployment process of creating the dev and test environment
   * Presentations
     * Closeout Presentation
-      * Agenda
-      * Summarize Modules 1-3: what problems were solved and what work you completed
       * Module 4
         * Summary of the current state architecture
         * Review of architecture diagrams and flows
@@ -62,8 +61,8 @@ Here is an overview of the design requirements for this build:
   * In each module, you may list out questions you have and schedule technical stakeholder meetings
 
 
+# Option 2 - Data Analytics Landing Zone
 
-
-
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
