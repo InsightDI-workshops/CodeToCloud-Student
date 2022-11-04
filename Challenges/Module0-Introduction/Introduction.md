@@ -25,7 +25,7 @@ The conference owners have access to the admin site to enter event details and t
 
 ## Problem situation
 
-Susan is painfully aware that this small business, which evolved into something bigger, has organically grown into an unmanageable monolith. After some research and discussions with the lead architect, she comes to the conclusion that the current setup of the conference code base should be transformed into a fully, multi-tenanted application suite for conferences. However, with the high pace of change and the tight budgets, there is simply no have time to stop current business and restructure the core code base to support all the flexibility customers require.
+Susan is painfully aware that this small business, which evolved into something bigger, has organically grown into an unmanageable monolith. After some research and discussions with the lead architect, she comes to the conclusion that the current setup of the conference code base should be transformed into a fully, multi-tenanted application suite for conferences. However, with the high pace of change and the tight budgets, there is simply no time to stop current business and restructure the core code base to support all the flexibility customers require.
 
 Susan is looking to take a step in this direction with the following goals in mind:
 
